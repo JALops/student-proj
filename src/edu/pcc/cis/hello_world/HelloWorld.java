@@ -1,7 +1,13 @@
 package edu.pcc.cis.hello_world;
 
 /**
- * Created by Your New Computer on 2/7/2017.
+ * @Author: Joshua Laflin
+ * @Version: 2/7/17
  */
 public class HelloWorld {
-}
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+
+    }
